@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Portfolio-Website/static/css/main.d7354ca9.css",
+    "main.js": "/Portfolio-Website/static/js/main.f83237e3.js",
+    "static/media/Umang.jpg": "/Portfolio-Website/static/media/Umang.599c802c36d32922f394.jpg",
+    "static/media/Umang2.JPG": "/Portfolio-Website/static/media/Umang2.995de73ce8621cc4a5e0.JPG",
+    "index.html": "/Portfolio-Website/index.html",
+    "main.d7354ca9.css.map": "/Portfolio-Website/static/css/main.d7354ca9.css.map",
+    "main.f83237e3.js.map": "/Portfolio-Website/static/js/main.f83237e3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7354ca9.css",
+    "static/js/main.f83237e3.js"
+  ]
+}
